@@ -12,10 +12,10 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-11-10T21:47:31.216054157Z"
+    created: "2026-11-10T21:47:47.813331037Z"
     description: Sample cluster provisioner that uses its own credential component
       instead of Rancher cloud credentials
-    digest: 310e61bcc0953aaa25a62f1615935acaf8ec7d48e4dbe6b8ec258ccbb44734e4
+    digest: 1983df053ee68a351577f91045d13bd0edf3f784a0b797b7b985fd39f0e505b9
     name: test-credentials
     type: application
     urls:
@@ -60,4 +60,4 @@ entries:
     urls:
     - assets/test-router/test-router-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-10T21:47:31.215627313Z"
+generated: "2026-11-10T21:47:47.81291954Z"
