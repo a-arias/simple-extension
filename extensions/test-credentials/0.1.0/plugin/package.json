@@ -1,0 +1,19 @@
+{
+  "name": "test-credentials",
+  "description": "Sample cluster provisioner that uses its own credential component instead of Rancher cloud credentials",
+  "version": "0.1.0",
+  "private": false,
+  "rancher": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0"
+  },
+  "files": [
+    "**/*"
+  ],
+  "main": "test-credentials-0.1.0.umd.min.js"
+}

@@ -1,0 +1,7 @@
+plugin/package.json
+plugin/test-credentials-0.1.0.umd.min.37.js
+plugin/test-credentials-0.1.0.umd.min.37.js.map
+plugin/test-credentials-0.1.0.umd.min.js
+plugin/test-credentials-0.1.0.umd.min.js.map
+plugin/test-credentials-0.1.0.umd.min.machine-config.js
+plugin/test-credentials-0.1.0.umd.min.machine-config.js.map
